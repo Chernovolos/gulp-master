@@ -1,0 +1,41 @@
+.icon-1 {
+	font-size: 50px;
+	color: #ffffff;
+}
+
+.icon-2 {
+	width: 28px;
+	height: 22px;
+	color: #ffffff;
+	font-family: "Font Awesome";
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.icon-3 {
+	color: #515f67;
+	font-family: Bitter;
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.icon-4 {
+	color: #ffffff;
+	font-family: "Font Awesome";
+	font-size: 30px;
+	font-weight: 400;
+	border: 1px solid white;
+	padding: 15px 18px;
+	text-decoration: none;
+}
+
+.icon-4:hover {
+	color: #4bcaff;
+	font-family: "Font Awesome";
+	font-size: 30px;
+	font-weight: 400;
+	border: 1px solid #4bcaff;
+	padding: 15px 18px;
+	text-decoration: none;
+}
+

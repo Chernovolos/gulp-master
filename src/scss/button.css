@@ -1,0 +1,28 @@
+.btn-visit {
+	color: #353f46;
+	background-color: transparent;
+	font-family: "Segoe UI";
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 24px;
+	text-transform: uppercase;
+	width: 150px;
+	border: 2px solid #353f46;
+	padding: 10px 30px;
+}
+
+.btn-visit:hover {
+	color: #ffffff;
+	background-color: #353f46;
+	border: 2px solid #ffffff;
+}
+
+.btn-visit:focus {
+	border: 2px solid #C0C0C0;
+	outline: none;
+}
+
+.btn.btn-info { 
+	font-family: "Segoe UI";
+	font-size: 14px;
+}

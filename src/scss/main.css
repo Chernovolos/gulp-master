@@ -1,0 +1,14 @@
+/* Импортируем Bootstrap 4 */
+@import "../../node_modules/bootstrap/dist/css/bootstrap.css";
+
+/* Импортируем наши стили */
+@import url(section.css);
+@import url(nav.css);
+@import url(card.css);
+@import url(button.css);
+@import url(form.css);
+@import url(list.css);
+@import url(normalize.css);
+@import url(header.css);
+@import url(fonts.css);
+@import url(icon.css);
